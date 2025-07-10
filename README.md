@@ -20,8 +20,7 @@ HTML5 + CSS3
 
 📸 Preview
 
-
-![Digital Clock Screenshot](<img width="1727" height="805" alt="image" src="https://github.com/user-attachments/assets/8207d2aa-9125-40c6-9f2d-cd6560fd5276" />)
+<img width="1727" height="805" alt="image" src="https://github.com/user-attachments/assets/8207d2aa-9125-40c6-9f2d-cd6560fd5276" />
 
 
 
@@ -30,7 +29,7 @@ HTML5 + CSS3
 
 Clone the repository: git clone https://github.com/Amankori8192/Digital-Clock.git
 
-🌐 Live Demo  :  ![Link] (https://clock-digit.netlify.app/)
+🌐 Live Demo  : https://clock-digit.netlify.app/
 
 
 
